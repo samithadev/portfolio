@@ -1,33 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a9786f0d.css",
-    "main.js": "/portfolio/static/js/main.e85b528d.js",
+    "main.css": "/portfolio/static/css/main.4e550b1f.css",
+    "main.js": "/portfolio/static/js/main.8a81d456.js",
     "static/media/remixicon.svg?t=1687271883607": "/portfolio/static/media/remixicon.636515c9a8963df4380d.svg",
     "static/media/portfolio-01.jpg": "/portfolio/static/media/portfolio-01.d7d1f5141a4b07ec7559.jpg",
     "static/media/remixicon.eot?t=1687271883607": "/portfolio/static/media/remixicon.83e9a22ce7f199999169.eot",
     "static/media/remixicon.ttf?t=1687271883607": "/portfolio/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
     "static/media/me.jpeg": "/portfolio/static/media/me.bcc0be03b1ff176e9735.jpeg",
+    "static/media/portfolio-03.jpg": "/portfolio/static/media/portfolio-03.5ebbc46764521d9b89ee.jpg",
     "static/media/portfolio-02.jpg": "/portfolio/static/media/portfolio-02.7466aefdcb886cd2deb6.jpg",
-    "static/media/portfolio-06.jpg": "/portfolio/static/media/portfolio-06.ea07d96454b4d7036952.jpg",
-    "static/media/portfolio-03.jpg": "/portfolio/static/media/portfolio-03.78e7f47277db062e42ce.jpg",
-    "static/media/portfolio-05.jpg": "/portfolio/static/media/portfolio-05.48fc29908a42185ebcac.jpg",
-    "static/media/portfolio-04.jpg": "/portfolio/static/media/portfolio-04.b181b68b278c583999d7.jpg",
     "static/media/remixicon.woff?t=1687271883607": "/portfolio/static/media/remixicon.3f0f84f17d39491e07ff.woff",
-    "static/media/portfolio-07.jpg": "/portfolio/static/media/portfolio-07.7e51d9d8fbe739866e5c.jpg",
     "static/media/doodle.png": "/portfolio/static/media/doodle.3f665eb8fa37e406e3ef.png",
     "static/media/react.png": "/portfolio/static/media/react.283f9f863581bb226e65.png",
     "static/media/Waving Hand Emoji [Free Download IOS Emojis].png": "/portfolio/static/media/Waving Hand Emoji [Free Download IOS Emojis].796f94649e610d252fcb.png",
     "static/media/remixicon.woff2?t=1687271883607": "/portfolio/static/media/remixicon.85992a032c7668836563.woff2",
-    "static/media/sql.png": "/portfolio/static/media/sql.9a8c4ff3165dc6d96ba4.png",
-    "static/media/java.png": "/portfolio/static/media/java.5d5cffa04d820ba0644c.png",
     "static/media/express.png": "/portfolio/static/media/express.04e4743fbd704db71ed7.png",
     "static/media/mongo.png": "/portfolio/static/media/mongo.c964002ecef4971216d0.png",
     "index.html": "/portfolio/index.html",
-    "main.a9786f0d.css.map": "/portfolio/static/css/main.a9786f0d.css.map",
-    "main.e85b528d.js.map": "/portfolio/static/js/main.e85b528d.js.map"
+    "main.4e550b1f.css.map": "/portfolio/static/css/main.4e550b1f.css.map",
+    "main.8a81d456.js.map": "/portfolio/static/js/main.8a81d456.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9786f0d.css",
-    "static/js/main.e85b528d.js"
+    "static/css/main.4e550b1f.css",
+    "static/js/main.8a81d456.js"
   ]
 }
