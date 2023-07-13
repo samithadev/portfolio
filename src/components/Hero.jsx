@@ -40,7 +40,7 @@ export default function Hero() {
                             <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/samitha-wickramasinghe/">
                                 <button className='flex items-center gap-[10px] border-2 border-solid font-[600] max-h-[40px] px-3 py-5 rounded-md bg-primaryColor hover:bg-smallTextColor text-white ease-in duration-300'><i class="ri-mail-send-line"></i>Hire Me</button>
                             </a>
-                            <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/18l7CakWZleAmj0CxkBrzxxd_FcQJ160G/view?usp=sharing" className='flex items-center gap-[10px] font-[600] border-b-2 border-solid border-smallTextColor text-smallTextColor ease-in duration-300 cursor-pointer hover:bg-lightblue'><i class="ri-article-line"></i>My CV</a>
+                            <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1rfhqM5Wq2m9re9d1XL421lZ2P4VGItQW/view?usp=sharing" className='flex items-center gap-[10px] font-[600] border-b-2 border-solid border-smallTextColor text-smallTextColor ease-in duration-300 cursor-pointer hover:bg-lightblue'><i class="ri-article-line"></i>My CV</a>
 
                         </div>
 
@@ -64,9 +64,7 @@ export default function Hero() {
                             <img src={mongo} alt="mongo" style={{ width: '60px', height: 'auto' }} />
                             <img src={express} alt="express" style={{ width: '60px', height: 'auto' }} />
                             <img src={node} alt="node" style={{ width: '60px', height: 'auto' }} />
-                            <>|</>
-                            <img src={java} alt="java" style={{ width: '60px', height: 'auto' }} />
-                            <img src={sql} alt="sql" style={{ width: '60px', height: 'auto' }} />
+                        
                         </div>
 
 

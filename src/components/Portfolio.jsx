@@ -25,6 +25,10 @@ export default function Portfolio() {
       const filterData = data.filter(item => item.category === 'React')
       setPortfolios(filterData)
     }
+    if (selectTab === 'Java') {
+      const filterData = data.filter(item => item.category === 'Java')
+      setPortfolios(filterData)
+    }
   }, [selectTab])
 
   return (
@@ -41,6 +45,7 @@ export default function Portfolio() {
           <button onClick={() => setSelectTab('all')} className='text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]'>All</button>
           <button onClick={() => setSelectTab('Mern')} className='text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]'>Mern</button>
           <button onClick={() => setSelectTab('React')} className='text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]'>React</button>
+          <button onClick={() => setSelectTab('Java')} className='text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]'>Java</button>
         </div>
 
         <div className='flex gap-4 items-center flex-wrap mt-12'>

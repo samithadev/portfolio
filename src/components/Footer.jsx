@@ -2,10 +2,10 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <footer class="relative bg-smallTextColor text-white pt-8 pb-6">
+    <footer class="w-full relative bg-smallTextColor text-white pt-8 pb-6">
       <div class="container mx-auto px-4">
         <div class="flex flex-wrap text-left lg:text-left">
-          <div class="w-full lg:w-6/12 px-4">
+          <div class="w-full lg:w-5/12 px-4">
             <h4 class="text-3xl fonat-semibold text-blueGray-700">Let's keep in touch! 👀</h4>
             <h5 class="font-[700] text-lg mt-3 mb-2 text-blueGray-600">
               I strive to bring ideas to life through clean code and creative problem-solving. Explore my projects and let's collaborate on transforming your vision into reality!
