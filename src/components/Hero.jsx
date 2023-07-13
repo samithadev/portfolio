@@ -6,8 +6,6 @@ import react from '../assets/react.png'
 import mongo from '../assets/mongo.png'
 import express from '../assets/express.png'
 import node from '../assets/node.png'
-import sql from '../assets/sql.png'
-import java from '../assets/java.png'
 
 export default function Hero() {
     return (
@@ -64,9 +62,7 @@ export default function Hero() {
                             <img src={mongo} alt="mongo" style={{ width: '60px', height: 'auto' }} />
                             <img src={express} alt="express" style={{ width: '60px', height: 'auto' }} />
                             <img src={node} alt="node" style={{ width: '60px', height: 'auto' }} />
-                            <>|</>
-                            <img src={java} alt="java" style={{ width: '60px', height: 'auto' }} />
-                            <img src={sql} alt="sql" style={{ width: '60px', height: 'auto' }} />
+                            
                         </div>
 
 
